@@ -15,7 +15,7 @@ import "@reach/combobox/styles.css";
 
 export default function Places() {
   const { isLoaded } = useLoadScript({
-    googleMapsApiKey: "",
+    googleMapsApiKey: "API_KEY", // API_KEY Has removed because it is a paid API KEY
     libraries: ["places"],
   });
 
