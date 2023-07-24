@@ -1,3 +1,10 @@
+******************************************************
+
+This Project need a google map API KEY for work
+I have remved my API KEY from this repo because this is a public git hub repository and every one can access it
+
+******************************************************
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
